@@ -35,11 +35,13 @@
   "dependencies": {
     "@angular/animations": "^15.2.4",
     "@angular/cdk": "^15.2.4",
+    "@angular/cli": "^15.2.4",
     "@angular/common": "^15.2.4",
     "@angular/core": "^15.2.4",
     "@angular/forms": "^15.2.4",
     "@angular/material": "^15.2.4",
     "@angular/platform-browser": "^15.2.4",
+    "@angular/typescript": "^2.0.0-5d0e199",
     "@types/express-mung": "^0.5.2",
     "@types/file-type": "^10.9.1",
     "@types/multer": "^1.4.7",
