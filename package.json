@@ -38,7 +38,7 @@
     "@angular/common": "^15.2.4",
     "@angular/core": "^15.2.4",
     "@angular/forms": "^15.2.4",
-    "@angular/material": "^15.2.1",
+    "@angular/material": "^15.2.4",
     "@angular/platform-browser": "^15.2.4",
     "@types/express-mung": "^0.5.2",
     "@types/file-type": "^10.9.1",
