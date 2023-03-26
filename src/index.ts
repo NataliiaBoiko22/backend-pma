@@ -1,4 +1,4 @@
-import mongoose from "mongoose";
+import mongoose from "mongoose"
 import { PORT } from "./constants";
 
 import * as serverService from "./services/server.service";
